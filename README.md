@@ -1,5 +1,12 @@
 # README
 
+Comment tester l'application:
+1. Clone or download
+2. Naviguer au dossier sur votre machine
+3. Ouvrir terminal
+4. Executer la commande 'rails s'
+5. Ouvrir le navigateur visiter le lien 'http://localhost:3000/'
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
@@ -20,5 +27,3 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
-
-* ...
